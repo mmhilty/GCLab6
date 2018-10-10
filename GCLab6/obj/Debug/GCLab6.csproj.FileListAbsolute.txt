@@ -1,0 +1,7 @@
+C:\Users\mhilty\source\repos\GCLab6\GCLab6\bin\Debug\GCLab6.exe.config
+C:\Users\mhilty\source\repos\GCLab6\GCLab6\bin\Debug\GCLab6.exe
+C:\Users\mhilty\source\repos\GCLab6\GCLab6\bin\Debug\GCLab6.pdb
+C:\Users\mhilty\source\repos\GCLab6\GCLab6\obj\Debug\GCLab6.csprojAssemblyReference.cache
+C:\Users\mhilty\source\repos\GCLab6\GCLab6\obj\Debug\GCLab6.csproj.CoreCompileInputs.cache
+C:\Users\mhilty\source\repos\GCLab6\GCLab6\obj\Debug\GCLab6.exe
+C:\Users\mhilty\source\repos\GCLab6\GCLab6\obj\Debug\GCLab6.pdb
